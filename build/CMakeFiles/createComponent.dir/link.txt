@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.o CMakeFiles/createComponent.dir/src/Juan.cxx.o  -o createComponent 
