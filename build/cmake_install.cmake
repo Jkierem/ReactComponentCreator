@@ -1,4 +1,4 @@
-# Install script for directory: /home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator
+# Install script for directory: /home/juan/Documents/Programacion/C++/Otros/React-Component-Creator
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

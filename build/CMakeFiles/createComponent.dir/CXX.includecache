@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/Juan.cxx
+/home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/src/Juan.cxx
 Juan.h
-/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/Juan.h
+/home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/src/Juan.h
 
-/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/Juan.h
+/home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/src/Juan.h
 string
 -
 fstream
@@ -18,7 +18,7 @@ fstream
 iostream
 -
 
-/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/ReactComponentCreator.cxx
+/home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/src/ReactComponentCreator.cxx
 iostream
 -
 iomanip
@@ -26,5 +26,5 @@ iomanip
 string
 -
 Juan.h
-/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/Juan.h
+/home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/src/Juan.h
 

@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/Juan.cxx" "/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/build/CMakeFiles/createComponent.dir/src/Juan.cxx.o"
-  "/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/ReactComponentCreator.cxx" "/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/build/CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.o"
+  "/home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/src/Juan.cxx" "/home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/build/CMakeFiles/createComponent.dir/src/Juan.cxx.o"
+  "/home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/src/ReactComponentCreator.cxx" "/home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/build/CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

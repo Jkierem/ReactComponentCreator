@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator
+CMAKE_SOURCE_DIR = /home/juan/Documents/Programacion/C++/Otros/React-Component-Creator
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/build
+CMAKE_BINARY_DIR = /home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/createComponent.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/createComponent.dir/flags.make
 
 CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.o: CMakeFiles/createComponent.dir/flags.make
 CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.o: ../src/ReactComponentCreator.cxx
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.o -c /home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/ReactComponentCreator.cxx
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.o -c /home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/src/ReactComponentCreator.cxx
 
 CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/ReactComponentCreator.cxx > CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/src/ReactComponentCreator.cxx > CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.i
 
 CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/ReactComponentCreator.cxx -o CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/src/ReactComponentCreator.cxx -o CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.s
 
 CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.o.provides.build: C
 
 CMakeFiles/createComponent.dir/src/Juan.cxx.o: CMakeFiles/createComponent.dir/flags.make
 CMakeFiles/createComponent.dir/src/Juan.cxx.o: ../src/Juan.cxx
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/createComponent.dir/src/Juan.cxx.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/createComponent.dir/src/Juan.cxx.o -c /home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/Juan.cxx
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/createComponent.dir/src/Juan.cxx.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/createComponent.dir/src/Juan.cxx.o -c /home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/src/Juan.cxx
 
 CMakeFiles/createComponent.dir/src/Juan.cxx.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/createComponent.dir/src/Juan.cxx.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/Juan.cxx > CMakeFiles/createComponent.dir/src/Juan.cxx.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/src/Juan.cxx > CMakeFiles/createComponent.dir/src/Juan.cxx.i
 
 CMakeFiles/createComponent.dir/src/Juan.cxx.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/createComponent.dir/src/Juan.cxx.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/Juan.cxx -o CMakeFiles/createComponent.dir/src/Juan.cxx.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/src/Juan.cxx -o CMakeFiles/createComponent.dir/src/Juan.cxx.s
 
 CMakeFiles/createComponent.dir/src/Juan.cxx.o.requires:
 
@@ -117,7 +117,7 @@ createComponent: CMakeFiles/createComponent.dir/src/ReactComponentCreator.cxx.o
 createComponent: CMakeFiles/createComponent.dir/src/Juan.cxx.o
 createComponent: CMakeFiles/createComponent.dir/build.make
 createComponent: CMakeFiles/createComponent.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable createComponent"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable createComponent"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/createComponent.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -135,6 +135,6 @@ CMakeFiles/createComponent.dir/clean:
 .PHONY : CMakeFiles/createComponent.dir/clean
 
 CMakeFiles/createComponent.dir/depend:
-	cd /home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator /home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator /home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/build /home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/build /home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/build/CMakeFiles/createComponent.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/juan/Documents/Programacion/C++/Otros/React-Component-Creator /home/juan/Documents/Programacion/C++/Otros/React-Component-Creator /home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/build /home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/build /home/juan/Documents/Programacion/C++/Otros/React-Component-Creator/build/CMakeFiles/createComponent.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/createComponent.dir/depend
 

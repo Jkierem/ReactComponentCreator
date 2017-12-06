@@ -23,7 +23,7 @@ void Juan::writeFile( std::string name , std::string path ){
       << std::endl << std::endl
       << "\trender(){"
       << std::endl
-      << "\t\treturn(<div>" << name << "</div>);"
+      << "\t\treturn(<div> " + name + " </div>);"
       << std::endl
       << "\t}"
       << std::endl
