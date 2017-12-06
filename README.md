@@ -5,7 +5,7 @@ Usage:
 
 1: Compile using your C++ compiler of choice.
 
-2: createComponent <Name> <DIRECTORY>
+2: Run `createComponent <Name> <DIRECTORY>`
 
 Notes:
 - The default directory used is ./src/components
@@ -36,4 +36,6 @@ class MyReactComponent extends React.Component{
 	}
 	
 }
+
+export default MyReactComponent
 ```
