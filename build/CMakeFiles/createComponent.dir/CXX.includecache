@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/Juan.cxx
+Juan.h
+/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/Juan.h
+
+/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/Juan.h
+string
+-
+fstream
+-
+iostream
+-
+
+/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/ReactComponentCreator.cxx
+iostream
+-
+iomanip
+-
+string
+-
+Juan.h
+/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/src/Juan.h
+

@@ -1,0 +1,3 @@
+/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/build/CMakeFiles/rebuild_cache.dir
+/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/build/CMakeFiles/createComponent.dir
+/home/juan/Documents/Programacion/C++/Otros/ReactComponentCreator/build/CMakeFiles/edit_cache.dir
